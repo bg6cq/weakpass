@@ -18,7 +18,7 @@ Usage:
         -d debug
         -f fork and do
         -6 support ipv6
-	-w weak_pass_filename, default is weak_pss.txt
+	-w weak_pass_filename, default is weak_pass.txt
         default port is 80
 ```
 
